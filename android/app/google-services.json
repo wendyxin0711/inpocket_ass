@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986868472731",
+    "project_id": "inpocket-72275",
+    "storage_bucket": "inpocket-72275.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986868472731:android:bfe6e1dd7deff4419b9f3e",
+        "android_client_info": {
+          "package_name": "com.example.inpocket_ass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFxJLhdEYprvXmlFG4IeTTi62lyaXU-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
