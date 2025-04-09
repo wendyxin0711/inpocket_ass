@@ -59,4 +59,5 @@ class DefaultFirebaseOptions {
     projectId: 'inpocket-72275',
     storageBucket: 'inpocket-72275.firebasestorage.app',
   );
+
 }
